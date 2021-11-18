@@ -4,7 +4,7 @@ Bu front-end işlerinize gulp ile başlamanız için bir başlangıç paketidir.
 # Kurulum
 Repoyu uygun bir yere klonlayın.
 ```
-git clone https://github.com/tayfunerbilen/frontend-gulp.git .
+git clone https://github.com/Gokcinodul/gulp.git .
 ```
 Daha sonra paketleri kurun.
 ```
